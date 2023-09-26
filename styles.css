@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+
+.bg-alert {
+	background-color: #dc3545; /* Red */
+    width: 300px;
+}
