@@ -1,6 +1,6 @@
 /* Your CSS Code here. */
 
-.bg-alert {
+.bg-danger {
 	background-color: #dc3545; /* Red */
     width: 300px;
 }
